@@ -21,13 +21,14 @@ Atuar na área de **Tecnologia da Informação**, com foco em:
 
 - Suporte Técnico  
 - Help Desk  
-- Atendimento ao Usuário  
+- Atendimento ao Usuário
+- Modelagem de Banco de Dados
 
 ---
 
 ## 💼 Experiência Profissional
 
-**🖥️ Compacta Print – Estágio**  
+**🖥️ Compacta Print**  
 *Suporte de Helpdesk*  
 📅 Maio de 2025 – Atual  
 📍 São Paulo – SP  
