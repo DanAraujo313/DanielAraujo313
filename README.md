@@ -11,7 +11,7 @@ Sou estudante de **Técnico em Informática** no Senac Santo André, apaixonado 
 - 📌 **Localização:** Santo André - SP, Brasil  
 - 📞 **Telefone:** (11) 91058-8817  
 - 📧 **E-mail:** [danielsousa.araujo313@gmail.com](mailto:danielsousa.araujo313@gmail.com)  
-w.linkedin.com/in/dan/
+
 
 ---
 
