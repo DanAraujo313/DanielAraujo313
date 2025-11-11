@@ -2,7 +2,7 @@
 
 Olá! 👋 Seja bem-vindo ao meu portfólio no GitHub!
 
-Sou estudante de **Técnico em Informática** no Senac Santo André, apaixonado por tecnologia, redes, hardware e suporte técnico. Atualmente atuo como estagiário de Help Desk na Compacta Print, onde tenho a oportunidade de aplicar meus conhecimentos e aprender cada vez mais!
+Sou estudante de **Técnico em Informática** no Senac Santo André, apaixonado por tecnologia, redes, hardware e suporte técnico. Atualmente atuo como Help Desk na Compacta Print, onde tenho a oportunidade de aplicar meus conhecimentos e aprender cada vez mais!
 
 ---
 
